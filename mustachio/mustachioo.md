@@ -96,7 +96,7 @@ Finished
 
 Pada Port 80 di Path http://10.49.135.54/custom/js/ Ditemukan file dengan nama users.bak
 <p>
-  <img width="436" height="242" alt="dir" src="https://github.com/user-attachments/assets/a932a346-4e12-4ab4-b1c4-26234ed53395" />
+  <img src="images/dir.png" width="540"/>
 </p>
 
 File `.bak` dianalisa menggunakan: Strings
