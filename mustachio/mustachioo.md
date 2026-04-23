@@ -302,9 +302,7 @@ barry@mustacchio:/home/joe$ ./live_log
 ```
 Hasilnya, saya berhasil mendapatkan shell sebagai root
 Output:
-<p>
-  <img src="images/root.png" width="540"/>
-</p>
+![Root](images/root.png)
 
 ---
 root flag:
