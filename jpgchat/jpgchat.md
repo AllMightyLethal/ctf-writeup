@@ -192,7 +192,7 @@ sudo -l
 
 ### Result
 
-![sudo l](sudo l.png)
+![check](check.png)
 
 The important part here was:
 
