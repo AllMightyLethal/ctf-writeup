@@ -18,7 +18,7 @@ nmap -sC -sV -oN nmap.txt <TARGET-IP>
 
 ### Result
 
-![nmap scan](ctf-image/jpgchat/nmap.png)
+![nmap scan](nmap.png)
 
 Port 22 was running SSH and port 3000 looked like a custom service.
 
@@ -192,7 +192,7 @@ sudo -l
 
 ### Result
 
-![sudo -l](ctf-image/jpgchat/sudo%20-l.png)
+![sudo l](sudo l.png)
 
 The important part here was:
 
@@ -258,7 +258,7 @@ This gave me a root shell.
 id
 ```
 
-![final](ctf-image/jpgchat/final.png)
+![final](final.png)
 
 ---
 
